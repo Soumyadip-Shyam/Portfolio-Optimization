@@ -1,0 +1,8 @@
+Portfolio_Type,Expected_Return_Percent,Volatility_Percent,Sharpe_Ratio,Investment_Amount_INR,Expected_Annual_Profit_INR,Risk_Level,Optimization_Method
+Random_Portfolio_MIN,-3.2659,7.8599,-0.8422,1000000,-32658.9,Conservative,Monte_Carlo_Random
+Random_Portfolio_MAX,20.4213,16.9586,1.3181,1000000,204213.03,Moderate,Monte_Carlo_Random
+Random_Portfolio_MEAN,8.8197,9.87,0.2864,1000000,88196.75,Conservative,Monte_Carlo_Random
+Random_Portfolio_STD,3.3574,0.9051,0.3335,1000000,33574.39,Conservative,Monte_Carlo_Random
+Random_Portfolio_MEDIAN,8.8441,9.7313,0.2928,1000000,88440.61,Conservative,Monte_Carlo_Random
+OPTIMIZED_MAX_SHARPE,22.58,9.8418,1.6847,1000000,225799.73,Conservative,SLSQP_Constrained_Optimization
+OPTIMIZED_MIN_VARIANCE,8.1084,7.2027,0.2927,1000000,81084.25,Conservative,SLSQP_Minimum_Variance

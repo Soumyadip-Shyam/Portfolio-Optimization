@@ -1,0 +1,22 @@
+Company_Symbol,Company_Name,Sector,Portfolio_Weight_Percent,Portfolio_Weight_Decimal,Allocation_Amount_INR,Expected_Annual_Return_Percent,Annual_Volatility_Percent,Individual_Sharpe_Ratio,Risk_Contribution,Return_Contribution,Market_Cap_Category,Investment_Priority
+PORTFOLIO_TOTAL,Total Portfolio,ALL_SECTORS,100.0,1.0,1000000.0,22.58,9.8418,1.6847,100.0,100.0,PORTFOLIO,OPTIMIZED
+ADANIPORTS,ADANIPORTS Ltd,Others,10.0,0.1,100000.0,31.4383,31.1581,0.8164,31.659,13.9231,Large Cap,Core Holding
+ASIANPAINT,Asian Paints Ltd,Paints,10.0,0.1,100000.0,23.0103,31.3685,0.5423,31.8728,10.1906,Large Cap,Core Holding
+COALINDIA,COALINDIA Ltd,Others,10.0,0.1,100000.0,29.2533,32.4773,0.716,32.9995,12.9554,Large Cap,Core Holding
+BPCL,BPCL Ltd,Others,10.0,0.1,100000.0,28.4124,31.9312,0.7019,32.4446,12.583,Large Cap,Core Holding
+HDFCBANK,HDFC Bank Ltd,Banking,10.0,0.1,100000.0,22.4761,31.093,0.5299,31.5929,9.954,Large Cap,Core Holding
+HINDALCO,HINDALCO Ltd,Others,10.0,0.1,100000.0,22.4137,31.4449,0.522,31.9504,9.9264,Large Cap,Core Holding
+EICHERMOT,EICHERMOT Ltd,Others,10.0,0.1,100000.0,22.9034,31.8286,0.5311,32.3403,10.1432,Large Cap,Core Holding
+DRREDDY,DRREDDY Ltd,Others,10.0,0.1,100000.0,24.6971,31.6948,0.5899,32.2044,10.9376,Large Cap,Core Holding
+GRASIM,GRASIM Ltd,Others,7.4827,0.074827,74827.07,12.3965,31.561,0.2027,23.9958,4.108,Large Cap,Core Holding
+CIPLA,CIPLA Ltd,Others,6.776,0.06776,67760.47,13.7513,31.3302,0.2474,21.5708,4.1266,Large Cap,Core Holding
+DIVISLAB,DIVISLAB Ltd,Others,4.6091,0.046091,46090.8,5.6782,32.1964,-0.01,15.0781,1.159,Large Cap,Significant Position
+AXISBANK,Axis Bank Ltd,Banking,0.7129,0.007129,7128.55,1.0006,32.1314,-0.1556,2.3273,0.0316,Large Cap,Minor Position
+BHARTIARTL,Bharti Airtel Ltd,Telecom,0.4193,0.004193,4193.11,-2.0784,30.6705,-0.2634,1.3067,-0.0386,Large Cap,Minimal Allocation
+BAJAJ-AUTO,BAJAJ-AUTO Ltd,Others,0.0,0.0,0.0,-8.7775,31.727,-0.4658,0.0,-0.0,Large Cap,Minimal Allocation
+BAJAJFINSV,BAJAJFINSV Ltd,Others,0.0,0.0,0.0,-1.4521,33.2828,-0.2239,0.0,-0.0,Large Cap,Minimal Allocation
+BAJFINANCE,Bajaj Finance Ltd,NBFC,0.0,0.0,0.0,-15.6638,31.966,-0.6777,0.0,-0.0,Large Cap,Minimal Allocation
+BRITANNIA,BRITANNIA Ltd,Others,0.0,0.0,0.0,-7.6078,31.7517,-0.4286,0.0,-0.0,Large Cap,Minimal Allocation
+HCLTECH,HCLTECH Ltd,Others,0.0,0.0,0.0,-8.5396,32.2633,-0.4507,0.0,-0.0,Large Cap,Minimal Allocation
+HDFCLIFE,HDFCLIFE Ltd,Others,0.0,0.0,0.0,-2.7384,32.3344,-0.2702,0.0,-0.0,Large Cap,Minimal Allocation
+HEROMOTOCO,HEROMOTOCO Ltd,Others,0.0,0.0,0.0,-14.4789,29.4716,-0.6949,0.0,-0.0,Large Cap,Minimal Allocation

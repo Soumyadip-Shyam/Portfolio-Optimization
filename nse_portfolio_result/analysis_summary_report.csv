@@ -1,0 +1,2 @@
+Report_Generated,Analysis_Type,Optimization_Method,Risk_Free_Rate,Investment_Amount,Number_of_Stocks,Optimization_Algorithm,Random_Portfolios_Generated,Analysis_Period,Currency,Market
+2025-06-23 19:01:28,NSE Nifty 50 Portfolio Optimization,Modern Portfolio Theory (MPT),6.0%,"₹10,00,000",20,SLSQP Constrained Optimization,"15,000",2020-2024,INR,NSE India

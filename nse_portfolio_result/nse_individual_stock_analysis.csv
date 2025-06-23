@@ -1,0 +1,21 @@
+Symbol,Company_Name,Sector,Annual_Return_Percent,Annual_Volatility_Percent,Sharpe_Ratio,Beta,Risk_Rating,Return_Rating,Overall_Score,Investment_Recommendation,Market_Cap_Category,Liquidity_Score,ESG_Score
+ADANIPORTS,ADANIPORTS Ltd,Others,31.4383,31.1581,0.8164,18.2895,High Risk,High Return,82.19,Hold,Large Cap,9,8
+COALINDIA,COALINDIA Ltd,Others,29.2533,32.4773,0.716,19.8711,High Risk,High Return,72.1,Hold,Large Cap,7,6
+BPCL,BPCL Ltd,Others,28.4124,31.9312,0.7019,19.2084,High Risk,High Return,70.71,Hold,Large Cap,7,6
+DRREDDY,DRREDDY Ltd,Others,24.6971,31.6948,0.5899,18.925,High Risk,High Return,59.52,Hold,Large Cap,8,6
+ASIANPAINT,Asian Paints Ltd,Paints,23.0103,31.3685,0.5423,18.5374,High Risk,High Return,54.77,Hold,Large Cap,8,7
+EICHERMOT,EICHERMOT Ltd,Others,22.9034,31.8286,0.5311,19.0852,High Risk,High Return,53.63,Hold,Large Cap,9,7
+HDFCBANK,HDFC Bank Ltd,Banking,22.4761,31.093,0.5299,18.2131,High Risk,High Return,53.54,Hold,Large Cap,9,8
+HINDALCO,HINDALCO Ltd,Others,22.4137,31.4449,0.522,18.6277,High Risk,High Return,52.74,Hold,Large Cap,9,8
+CIPLA,CIPLA Ltd,Others,13.7513,31.3302,0.2474,18.4921,High Risk,High Return,25.28,Avoid,Large Cap,7,7
+GRASIM,GRASIM Ltd,Others,12.3965,31.561,0.2027,18.7655,High Risk,High Return,20.8,Avoid,Large Cap,9,8
+DIVISLAB,DIVISLAB Ltd,Others,5.6782,32.1964,-0.01,19.5287,High Risk,Low Return,-0.49,Avoid,Large Cap,7,7
+AXISBANK,Axis Bank Ltd,Banking,1.0006,32.1314,-0.1556,19.4501,High Risk,Low Return,-15.05,Avoid,Large Cap,9,6
+BAJAJFINSV,BAJAJFINSV Ltd,Others,-1.4521,33.2828,-0.2239,20.8689,High Risk,Low Return,-21.91,Avoid,Large Cap,7,8
+BHARTIARTL,Bharti Airtel Ltd,Telecom,-2.0784,30.6705,-0.2634,17.7216,High Risk,Low Return,-25.78,Avoid,Large Cap,8,7
+HDFCLIFE,HDFCLIFE Ltd,Others,-2.7384,32.3344,-0.2702,19.6965,High Risk,Low Return,-26.52,Avoid,Large Cap,8,8
+BRITANNIA,BRITANNIA Ltd,Others,-7.6078,31.7517,-0.4286,18.993,High Risk,Low Return,-42.33,Avoid,Large Cap,7,8
+HCLTECH,HCLTECH Ltd,Others,-8.5396,32.2633,-0.4507,19.61,High Risk,Low Return,-44.56,Avoid,Large Cap,9,6
+BAJAJ-AUTO,BAJAJ-AUTO Ltd,Others,-8.7775,31.727,-0.4658,18.9635,High Risk,Low Return,-46.05,Avoid,Large Cap,7,7
+BAJFINANCE,Bajaj Finance Ltd,NBFC,-15.6638,31.966,-0.6777,19.2503,High Risk,Low Return,-67.25,Avoid,Large Cap,9,8
+HEROMOTOCO,HEROMOTOCO Ltd,Others,-14.4789,29.4716,-0.6949,16.3631,High Risk,Low Return,-68.88,Avoid,Large Cap,9,7
